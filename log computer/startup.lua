@@ -1,1 +1,1 @@
-shell.run("monitor", "top", "log_shaft.lua")
+shell.run("log_shaft.lua")

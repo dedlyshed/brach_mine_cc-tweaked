@@ -1,5 +1,5 @@
 rednet.open("back")
-print("Staring up log shaft program")
+print("Mineshaft bots log program")
 while true do
     _, id, message, distance = os.pullEvent("rednet_message")
     print(id .. ": " .. message)
